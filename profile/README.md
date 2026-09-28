@@ -28,10 +28,10 @@ We build open-source projects focused on custom PCB design, analog electronics a
 
 ### 🛠️ Tools
 
-![KiCad](https://img.shields.io/badge/KiCad_9-314685?style=for-the-badge&logo=kicad&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad_10-314685?style=for-the-badge&logo=kicad&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge&logo=easyeda&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-EE3124?style=for-the-badge&logo=analogdevices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ---
 
 ### 🚀 Projects
