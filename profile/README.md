@@ -45,6 +45,6 @@ We build open-source projects focused on custom PCB design, analog electronics a
 | | Name | Role | Links |
 |:-:|---|---|---|
 | <img src="https://github.com/Loredati-svg.png" width="50"/> | **Lorenzo Dati** | Analog IC & PCB Designer | [GitHub](https://github.com/Loredati-svg) · [LinkedIn](https://linkedin.com/in/lorenzodati00) |
-| <img src="https://github.com/lorebarta.png" width="50"/> | **Lorenzo Bartalucci** | Digital IC & PCB Engineer | [GitHub](https://github.com/lorebarta) |
+| <img src="https://github.com/lorebarta.png" width="50"/> | **Lorenzo Bartalucci** | Digital IC & PCB Engineer | [GitHub](https://github.com/lorebarta)  · [LinkedIn](https://linkedin.com/in/lorenzobartalucci) |
 
 ---
